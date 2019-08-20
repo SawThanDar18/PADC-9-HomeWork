@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="small">5dp</dimen>
+    <dimen name="medium">8dp</dimen>
+    <dimen name="medium_1">10dp</dimen>
+    <dimen name="medium_2">16dp</dimen>
+    <dimen name="title_size_1">20sp</dimen>
+    <dimen name="title_size">25sp</dimen>
+    <dimen name="image_size_small">20dp</dimen>
+    <dimen name="image_size_small_2">30dp</dimen>
+    <dimen name="image_size_medium">50dp</dimen>
+    <dimen name="layout_height">200dp</dimen>
+    <dimen name="layout_height_2">300dp</dimen>
+
+    <dimen name="margin_small_n">-4dp</dimen>
+
+</resources>

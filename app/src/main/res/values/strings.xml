@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_label">TED Talks</string>
+    <string name="app_name">TED</string>
+    <string name="app_name_2"> Talks</string>
+
+    <!--fragment_title-->
+    <string name="fragmentOne">Newest</string>
+    <string name="fragmentTwo">Trending</string>
+    <string name="fragmentThree">Most viewed</string>
+
+    <!--recycler_newest_item-->
+    <string name="newest_name_tv">Nicola Sturgeon</string>
+    <string name="newest_title_tv">Why government should prioritize</string>
+    <string name="newest_title_tv_2">well-being</string>
+    <string name="newest_time_tv">10:00</string>
+
+    <!--recycler_trending_item-->
+    <string name="trending_name_tv">Jason Shen</string>
+    <string name="trending_title_tv">Looking for a job? Highlight your ability, not your experience</string>
+    <string name="trending_time_tv">6:30</string>
+
+    <!--recycler_mostviewed_item-->
+    <string name="most_name_tv">Sir Ken Robinson</string>
+    <string name="most_title_tv">Do schools kill creativity?</string>
+    <string name="most_time_tv">19:24</string>
+
+    <!--activity_detail-->
+    <string name="listen">Listen</string>
+    <string name="language">With subtitles in English and 8 other languages</string>
+    <string name="description">In 2018, Scotland, Iceland and New Zealand established the network of Wellbeing Economy Governments
+                               to challenge the acceptance of GDP as the ultimate measure of a country success. In this visionary talk,
+                               First Minister of Scotland Nicola Sturgeon explains the far-reaching implications of a "well-being economy"
+                               -which places factors like equal pay, childcare, mental health and access to green space at its heart-
+                               and shows how this new focus could help build resolve to confront global challenges.</string>
+    <string name="date">TEDSummit 2019, Filmed July 2019</string>
+
+    <!--menu-->
+    <string name="setting">Settings</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="feedback">Feedback</string>
+    <string name="login">Log in</string>
+
+</resources>
